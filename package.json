@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Product purchase app using MySQL backend",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.9.1",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrhunter83/Bamazon-Node.js-MySQL-.git"
+  },
+  "author": "Edward Hunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrhunter83/Bamazon-Node.js-MySQL-/issues"
+  },
+  "homepage": "https://github.com/mrhunter83/Bamazon-Node.js-MySQL-#readme"
+}
